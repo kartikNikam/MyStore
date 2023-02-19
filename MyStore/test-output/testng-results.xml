@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-02T19:58:37 IST" name="MyStoreSuite" finished-at="2023-01-02T19:59:55 IST" duration-ms="78016">
+    <groups>
+    </groups>
+    <test started-at="2023-01-02T19:58:37 IST" name="Test" finished-at="2023-01-02T19:59:55 IST" duration-ms="78016">
+      <class name="com.Mystore.testcases.TC_MyAccountPageTestDataDrivenTesting">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.TC_MyAccountPageTestDataDrivenTesting@3b69e7d1]" started-at="2023-01-02T19:58:38 IST" name="setup" finished-at="2023-01-02T19:58:48 IST" duration-ms="10516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Mystore.testcases.TC_MyAccountPageTestDataDrivenTesting@3b69e7d1]" started-at="2023-01-02T19:58:55 IST" name="VerifyLogin" data-provider="LoginDataProvider" finished-at="2023-01-02T19:59:17 IST" duration-ms="22362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kkn25]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Welcome kkn25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method signature="VerifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Mystore.testcases.TC_MyAccountPageTestDataDrivenTesting@3b69e7d1]" started-at="2023-01-02T19:59:17 IST" name="VerifyLogin" data-provider="LoginDataProvider" finished-at="2023-01-02T19:59:39 IST" duration-ms="21567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kkn26]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Welcome kkn26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Mystore.testcases.TC_MyAccountPageTestDataDrivenTesting@3b69e7d1]" started-at="2023-01-02T19:59:39 IST" name="tearDown" finished-at="2023-01-02T19:59:55 IST" duration-ms="16505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Mystore.testcases.TC_MyAccountPageTestDataDrivenTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- MyStoreSuite -->
+</testng-results>

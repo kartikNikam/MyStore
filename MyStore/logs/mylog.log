@@ -1,0 +1,45 @@
+[INFO ] 2023-01-05 19:30:18.914 [main] MyStoreV1 - url opend
+[INFO ] 2023-01-05 19:30:29.531 [main] MyStoreV1 - Login username entered
+[INFO ] 2023-01-05 19:30:32.620 [main] MyStoreV1 - Login password entered
+[INFO ] 2023-01-05 19:30:35.696 [main] MyStoreV1 - login button clicked
+[INFO ] 2023-01-05 19:30:41.769 [main] MyStoreV1 - validation using assert
+[INFO ] 2023-01-05 19:30:41.769 [main] MyStoreV1 - User Verified
+[INFO ] 2023-01-05 19:30:51.063 [main] MyStoreV1 - Login username entered
+[INFO ] 2023-01-05 19:30:54.160 [main] MyStoreV1 - Login password entered
+[INFO ] 2023-01-05 19:30:57.217 [main] MyStoreV1 - login button clicked
+[INFO ] 2023-01-05 19:31:03.258 [main] MyStoreV1 - validation using assert
+[INFO ] 2023-01-05 19:31:03.258 [main] MyStoreV1 - User Verified
+[INFO ] 2023-01-05 19:31:06.860 [main] MyStoreV1 - url opend
+[INFO ] 2023-01-05 19:31:06.863 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2023-01-05 19:31:10.445 [main] MyStoreV1 - Login username entered
+[INFO ] 2023-01-05 19:31:13.543 [main] MyStoreV1 - Login password entered
+[INFO ] 2023-01-05 19:31:16.597 [main] MyStoreV1 - login button clicked
+[INFO ] 2023-01-05 19:31:20.715 [main] MyStoreV1 - Search Item is clicked
+[INFO ] 2023-01-05 19:31:20.716 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2023-01-05 19:31:21.535 [main] MyStoreV1 - Product name fetched
+[INFO ] 2023-01-05 19:31:22.265 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2023-01-05 19:31:22.265 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2023-01-05 19:31:22.267 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2023-01-05 19:31:30.582 [main] MyStoreV1 - Login username entered
+[INFO ] 2023-01-05 19:31:33.664 [main] MyStoreV1 - Login password entered
+[INFO ] 2023-01-05 19:31:43.817 [main] MyStoreV1 - Search Item is clicked
+[INFO ] 2023-01-05 19:31:44.535 [main] MyStoreV1 - Final  search item clicked
+[INFO ] 2023-01-05 19:31:49.616 [main] MyStoreV1 - Click on cart
+[INFO ] 2023-01-05 19:31:52.627 [main] MyStoreV1 - alert
+[INFO ] 2023-01-05 19:31:56.683 [main] MyStoreV1 - clicked order placed  button
+[INFO ] 2023-01-05 19:32:03.654 [main] MyStoreV1 - Registration info inserted
+[INFO ] 2023-01-05 19:32:03.690 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2023-01-05 19:32:08.974 [main] MyStoreV1 - final logout
+[INFO ] 2023-01-05 19:36:52.159 [main] MyStoreV1 - url opend
+[INFO ] 2023-01-05 19:37:02.814 [main] MyStoreV1 - Login username entered
+[INFO ] 2023-01-05 19:37:05.892 [main] MyStoreV1 - Login password entered
+[INFO ] 2023-01-05 19:37:08.972 [main] MyStoreV1 - login button clicked
+[INFO ] 2023-01-05 19:37:15.051 [main] MyStoreV1 - validation using assert
+[INFO ] 2023-01-05 19:37:15.052 [main] MyStoreV1 - User Verified
+[INFO ] 2023-01-05 19:37:24.422 [main] MyStoreV1 - Login username entered
+[INFO ] 2023-01-05 19:37:27.502 [main] MyStoreV1 - Login password entered
+[INFO ] 2023-01-05 19:37:30.566 [main] MyStoreV1 - login button clicked
+[INFO ] 2023-01-05 19:37:36.606 [main] MyStoreV1 - validation using assert
+[INFO ] 2023-01-05 19:37:36.608 [main] MyStoreV1 - User Failed
