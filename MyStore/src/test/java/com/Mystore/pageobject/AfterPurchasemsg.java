@@ -16,6 +16,7 @@ public class AfterPurchasemsg {
 	}
 	
 	@FindBy(xpath="//button[text()='OK']")WebElement Okmsg;
+	//@FindBy(xpath="//button[text()='OK']")WebElement Okmsg1;
 	
 	@FindBy(xpath="//*[text()='Thank you for your purchase!']")WebElement Successmsg;
 	
